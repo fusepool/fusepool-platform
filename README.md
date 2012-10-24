@@ -13,7 +13,7 @@ To compile the fusepool platform and its modules you need to have [Maven](http:/
 
 On many systems to should set an environment variable for maven to be executed with enough memory:
 
-    export MAVEN_OPTS="-Xmx512M -XX:MaxPermSize=128M"
+    export MAVEN_OPTS="-Xmx1024M -XX:MaxPermSize=128M"
 
 Compile with
 

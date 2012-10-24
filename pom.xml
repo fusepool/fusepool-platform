@@ -60,7 +60,7 @@
   <!-- These modules form the Fusepool Platform -->
   <modules>
     <module>stanbol</module>    
- 
+	<module>launcher</module>
   </modules>
 
 </project>
