@@ -1,3 +1,6 @@
 [submodule "stanbol"]
 	path = stanbol
 	url = git://git.apache.org/stanbol.git
+[submodule "launcher"]
+	path = launcher
+	url = git@github.com:fusepool/launcher.git
