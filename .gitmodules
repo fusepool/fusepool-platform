@@ -4,3 +4,6 @@
 [submodule "launcher"]
 	path = launcher
 	url = git@github.com:fusepool/launcher.git
+[submodule "webconsole-branding"]
+	path = webconsole-branding
+	url = git@github.com:fusepool/webconsole-branding.git
