@@ -1,0 +1,3 @@
+[submodule "stanbol"]
+	path = stanbol
+	url = git://git.apache.org/stanbol.git
