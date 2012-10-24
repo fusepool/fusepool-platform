@@ -60,8 +60,9 @@
   <!-- These modules form the Fusepool Platform -->
   <modules>
     <module>stanbol</module>    
-	<module>launcher</module>
 	<module>webconsole-branding</module>
+	<module>bundlelist</module>
+	<module>launcher</module>
   </modules>
 
 </project>

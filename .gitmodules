@@ -7,3 +7,6 @@
 [submodule "webconsole-branding"]
 	path = webconsole-branding
 	url = git@github.com:fusepool/webconsole-branding.git
+[submodule "bundlelist"]
+	path = bundlelist
+	url = git@github.com:fusepool/fusepool-bundlelist.git
