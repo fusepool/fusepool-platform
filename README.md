@@ -18,17 +18,17 @@ On many systems to should set an environment variable for maven to be executed w
 
 Compile with
 
-   mvn install -Dmaven.test.skip=true
+    mvn install -Dmaven.test.skip=true
 
 Of course, omitt -Dmaven.test.skip=true if you want to run the tests as well
 
 To run it change to launcher/target and run it with
 
-   java -Xmx1024M -XX:MaxPermSize=400M -Xss512k -jar launcher-0.1-SNAPSHOT.jar
+    java -Xmx1024M -XX:MaxPermSize=400M -Xss512k -jar launcher-0.1-SNAPSHOT.jar
 
 To start it in debug mode so that you can connect a debuger on port 8888
 
-   java -Xmx1024M -XX:MaxPermSize=400M -Xss512k -Xdebug -Xnoagent -Xrunjdwp:transport=dt_socket,address=8888,server=y,suspend=n -jar launcher-0.1-SNAPSHOT.jar 
+    java -Xmx1024M -XX:MaxPermSize=400M -Xss512k -Xdebug -Xnoagent -Xrunjdwp:transport=dt_socket,address=8888,server=y,suspend=n -jar launcher-0.1-SNAPSHOT.jar 
 
 Windows specifics
 =================
