@@ -18,14 +18,6 @@ On many systems to should set an environment variable for maven to be executed w
 
 Compile with
 
-Current issue: You first need to compile stanbol/parent manually. To do this:
-
-   cd stanbol/parent
-   mvn install
-   cd ../..
-
-now you can compile the real thing:
-
    mvn install -Dmaven.test.skip=true
 
 Of course, omitt -Dmaven.test.skip=true if you want to run the tests as well
