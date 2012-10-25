@@ -45,7 +45,7 @@
 
   <scm>
     <connection>
-      scm:git:git@github.com:fusepool/fusepool-platform.git
+      scm:git:git://github.com/fusepool/fusepool-platform.git
     </connection>
     <developerConnection>
       scm:git:git@github.com:fusepool/fusepool-platform.git

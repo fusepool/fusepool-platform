@@ -5,7 +5,7 @@ The fusepool platform containing all fusepool deveoped components as submodules.
 
 To get the source do the following:
 
-    git clone git@github.com:fusepool/fusepool-platform.git
+    git clone git://github.com/fusepool/fusepool-platform.git
     git submodule init
     git submodule update
 
