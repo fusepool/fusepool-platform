@@ -6,6 +6,7 @@ The fusepool platform containing all fusepool deveoped components as submodules.
 To get the source do the following:
 
     git clone git://github.com/fusepool/fusepool-platform.git
+    cd fusepool-platform
     git submodule init
     git submodule update
 
@@ -17,7 +18,18 @@ On many systems to should set an environment variable for maven to be executed w
 
 Compile with
 
+Current issue: You first need to compile stanbol/parent manually. To do this:
+
+   cd stanbol/parent
+   mvn install
+   cd ../..
+
+now you can compile the real thing:
+
    mvn install -Dmaven.test.skip=true
 
 Of course, omitt -Dmaven.test.skip=true if you want to run the tests as well
 
+To run it change to launcher/target and run it with
+
+   java -Xmx1024M -XX:MaxPermSize=400M -Xss512k -jar launcher-0.1-SNAPSHOT.jar
