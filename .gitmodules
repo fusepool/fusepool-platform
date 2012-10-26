@@ -10,3 +10,6 @@
 [submodule "bundlelist"]
 	path = bundlelist
 	url = git@github.com:fusepool/fusepool-bundlelist.git
+[submodule "foafknows-enhancer"]
+	path = foafknows-enhancer
+	url = git@github.com:fusepool/foafknows-enhancer.git
