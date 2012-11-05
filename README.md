@@ -22,7 +22,11 @@ Compile with
 
 Of course, omitt -Dmaven.test.skip=true if you want to run the tests as well
 
-To run it change to launcher/target and run it with
+To run it change to launcher/target 
+
+    cd laucnher/target
+
+and run it with
 
     java -Xmx1024M -XX:MaxPermSize=400M -Xss512k -jar launcher-0.1-SNAPSHOT.jar
 
