@@ -10,7 +10,8 @@ To get the source do the following:
     git submodule init
     git submodule update
 
-To compile the fusepool platform and its modules you need to have [Maven](http://maven.apache.org/) installed.
+To compile the fusepool platform and its modules you need to have [Maven](http://maven.apache.org/)
+version 3 or newer installed.
 
 On many systems to should set an environment variable for maven to be executed with enough memory:
 
