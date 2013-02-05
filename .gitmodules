@@ -3,13 +3,13 @@
 	url = git://git.apache.org/stanbol.git
 [submodule "launcher"]
 	path = launcher
-	url = git@github.com:fusepool/launcher.git
+	url = https://github.com/fusepool/launcher.git
 [submodule "webconsole-branding"]
 	path = webconsole-branding
-	url = git@github.com:fusepool/webconsole-branding.git
+	url = https://github.com/fusepool/webconsole-branding.git 
 [submodule "bundlelist"]
 	path = bundlelist
-	url = git@github.com:fusepool/fusepool-bundlelist.git
+	url = https://github.com/fusepool/fusepool-bundlelist.git
 [submodule "foafknows-enhancer"]
 	path = foafknows-enhancer
-	url = git@github.com:fusepool/foafknows-enhancer.git
+	url = https://github.com/fusepool/foafknows-enhancer.git
