@@ -13,6 +13,3 @@
 [submodule "foafknows-enhancer"]
 	path = foafknows-enhancer
 	url = https://github.com/fusepool/foafknows-enhancer.git
-[submodule "patents-reengineering"]
-	path = patents-reengineering
-	url = git@github.com:fusepool/patents-reengineering.git
