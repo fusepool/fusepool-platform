@@ -36,6 +36,16 @@ To start it in debug mode so that you can connect a debuger on port 8888
 
     java -Xmx1024M -XX:MaxPermSize=400M -Xss512k -Xdebug -Xnoagent -Xrunjdwp:transport=dt_socket,address=8888,server=y,suspend=n -jar launcher-0.1-SNAPSHOT.jar 
 
+
+Adding new Submodules
+=====================
+A few notes on adding new modules to the platform:
+
+- The submodule should be added by their https (not git-uri so that people without edit right can still check out the platform)
+  e.g. git submodule add https://github.com/fusepool/fusepool-something.git
+- Add the submodule to the reactor, i.e. to the pom.xml in fusepool-platform
+- Add the module's groupId and artifactId to the bundlelist: bundlelist/src/main/bundles/list.xml
+
 Windows specifics
 =================
 
