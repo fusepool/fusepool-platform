@@ -63,7 +63,7 @@
 	<module>webconsole-branding</module>
 	<module>bundlelist</module>
 	<module>launcher</module>
-	<module>fusepool-firstwim</module>
+	<module>fusepool-firstswim</module>
   </modules>
 
 </project>
