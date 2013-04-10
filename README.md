@@ -26,7 +26,7 @@ Of course, omitt -Dmaven.test.skip=true if you want to run the tests as well
 
 To run it change to launcher/target 
 
-    cd laucnher/target
+    cd launcher/target
 
 and run it with
 
