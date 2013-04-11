@@ -19,3 +19,6 @@
 [submodule "fusepool-firstswim"]
 	path = fusepool-firstswim
 	url = https://github.com/fusepool/fusepool-firstswim.git
+[submodule "parent"]
+	path = parent
+	url = https://github.com/fusepool/fusepool-parent.git
