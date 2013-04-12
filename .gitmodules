@@ -22,3 +22,6 @@
 [submodule "parent"]
 	path = parent
 	url = https://github.com/fusepool/fusepool-parent.git
+[submodule "ecs"]
+	path = ecs
+	url = https://github.com/fusepool/fusepool-ecs.git
