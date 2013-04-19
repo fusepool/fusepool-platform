@@ -57,6 +57,7 @@
         <module>stanbol</module>    
         <module>webconsole-branding</module>
         <module>bundlelist</module>
+        <module>ecs</module>
         <module>launcher</module>
         <module>fusepool-firstswim</module>
     </modules>
