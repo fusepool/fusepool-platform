@@ -58,6 +58,7 @@
         <module>webconsole-branding</module>
         <module>bundlelist</module>
         <module>ecs</module>
+        <module>annostore</module>
         <module>launcher</module>
         <module>fusepool-firstswim</module>
     </modules>
