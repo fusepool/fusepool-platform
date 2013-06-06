@@ -31,3 +31,6 @@
 [submodule "fusepool-sma"]
 	path = fusepool-sma
 	url = https://github.com/prajczer/fusepool-sma.git
+[submodule "fusepool-ner"]
+	path = fusepool-ner
+	url = https://github.com/prajczer/fusepool-ner.git
