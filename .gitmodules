@@ -28,3 +28,6 @@
 [submodule "annostore"]
 	path = annostore
 	url = https://github.com/fusepool/annostore.git
+[submodule "fusepool-sma"]
+	path = fusepool-sma
+	url = https://github.com/prajczer/fusepool-sma.git
