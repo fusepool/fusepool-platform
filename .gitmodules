@@ -30,7 +30,7 @@
 	url = https://github.com/fusepool/annostore.git
 [submodule "fusepool-sma"]
 	path = fusepool-sma
-	url = https://github.com/prajczer/fusepool-sma.git
+	url = https://github.com/fusepool/fusepool-sma.git
 [submodule "fusepool-ner"]
 	path = fusepool-ner
-	url = https://github.com/prajczer/fusepool-ner.git
+	url = https://github.com/fusepool/fusepool-ner.git
