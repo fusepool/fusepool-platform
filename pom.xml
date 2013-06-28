@@ -62,6 +62,7 @@
         <module>launcher</module>
         <module>fusepool-firstswim</module>
         <module>fusepool-ner</module>
+        <module>fusepool-sma</module>
     </modules>
 
 </project>
