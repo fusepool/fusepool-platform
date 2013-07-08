@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 fusepool-platform
 =================
 
@@ -52,14 +51,3 @@ Windows specifics
 
 See https://github.com/fusepool/fusepool-platform/wiki/Windows-Installation-Guide-(beginners)
 =======
-patentutils
-===========
-
-Utility commands for managing patent data. 
-
-Utility commands for 
-
-- uploading and deletion of RDF data into the content graph, 
-- creation of textual data for indexing and retrieval from the ECS, 
-- linking of entities from enhancements or transformations.
->>>>>>> 2174b2c85631988a52c1ae200071226e9d4a51cd
