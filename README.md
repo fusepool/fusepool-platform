@@ -50,4 +50,4 @@ Windows specifics
 =================
 
 See https://github.com/fusepool/fusepool-platform/wiki/Windows-Installation-Guide-(beginners)
-=======
+
