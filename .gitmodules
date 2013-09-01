@@ -34,3 +34,9 @@
 [submodule "fusepool-ner"]
 	path = fusepool-ner
 	url = https://github.com/fusepool/fusepool-ner.git
+[submodule "kmx-client"]
+	path = kmx-client
+	url = https://github.com/fusepool/kmx-client
+[submodule "kmx-rdf-proxy"]
+	path = kmx-rdf-proxy
+	url = https://github.com/fusepool/kmx-rdf-proxy

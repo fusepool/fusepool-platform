@@ -63,6 +63,8 @@
         <module>fusepool-firstswim</module>
         <module>fusepool-ner</module>
         <module>fusepool-sma</module>
+        <module>kmx-client</module>
+        <module>kmx-rdf-proxy</module>
     </modules>
 
 </project>
