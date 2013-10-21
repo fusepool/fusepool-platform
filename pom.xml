@@ -65,6 +65,8 @@
         <module>fusepool-sma</module>
         <module>kmx-client</module>
         <module>kmx-rdf-proxy</module>
+        <module>silklinking</module>
+        <module>publications</module>
     </modules>
 
 </project>
