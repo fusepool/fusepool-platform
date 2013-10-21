@@ -68,6 +68,7 @@
         <module>silklinking</module>
         <module>publications</module>
         <module>ecsutils</module>
+        <module>silklinkingengine</module>
     </modules>
 
 </project>
