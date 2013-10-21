@@ -42,4 +42,4 @@
 	url = https://github.com/fusepool/kmx-rdf-proxy
 [submodule "silklinking"]
 	path = silklinking
-	url = git@github.com:fusepool/silklinking.git
+	url = https://github.com/fusepool/silklinking
