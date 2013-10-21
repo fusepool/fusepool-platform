@@ -69,6 +69,7 @@
         <module>publications</module>
         <module>ecsutils</module>
         <module>silklinkingengine</module>
+        <module>tables-ld</module>
     </modules>
 
 </project>
