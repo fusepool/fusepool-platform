@@ -49,3 +49,6 @@
 [submodule "ecsutils"]
 	path = ecsutils
 	url = https://github.com/fusepool/ecsutils.git
+[submodule "silklinkingengine"]
+	path = silklinkingengine
+	url = https://github.com/fusepool/silklinkingengine.git
