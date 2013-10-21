@@ -52,3 +52,6 @@
 [submodule "silklinkingengine"]
 	path = silklinkingengine
 	url = https://github.com/fusepool/silklinkingengine.git
+[submodule "tables-ld"]
+	path = tables-ld
+	url = https://github.com/fusepool/tables-ld.git
