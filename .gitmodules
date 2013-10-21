@@ -15,7 +15,7 @@
 	url = https://github.com/fusepool/foafknows-enhancer.git
 [submodule "patents-reengineering"]
 	path = patents-reengineering
-	url = git://github.com/fusepool/patents-reengineering.git
+	url = https://github.com/fusepool/patents-reengineering.git
 [submodule "fusepool-firstswim"]
 	path = fusepool-firstswim
 	url = https://github.com/fusepool/fusepool-firstswim.git
