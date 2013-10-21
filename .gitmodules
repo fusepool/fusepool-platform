@@ -43,3 +43,6 @@
 [submodule "silklinking"]
 	path = silklinking
 	url = https://github.com/fusepool/silklinking
+[submodule "publications"]
+	path = publications
+	url = https://github.com/fusepool/publications.git
