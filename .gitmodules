@@ -46,3 +46,6 @@
 [submodule "publications"]
 	path = publications
 	url = https://github.com/fusepool/publications.git
+[submodule "ecsutils"]
+	path = ecsutils
+	url = https://github.com/fusepool/ecsutils.git
