@@ -65,6 +65,11 @@
         <module>fusepool-sma</module>
         <module>kmx-client</module>
         <module>kmx-rdf-proxy</module>
+        <module>silklinking</module>
+        <module>publications</module>
+        <module>ecsutils</module>
+        <module>silklinkingengine</module>
+        <module>tables-ld</module>
     </modules>
 
 </project>

@@ -15,7 +15,7 @@
 	url = https://github.com/fusepool/foafknows-enhancer.git
 [submodule "patents-reengineering"]
 	path = patents-reengineering
-	url = git://github.com/fusepool/patents-reengineering.git
+	url = https://github.com/fusepool/patents-reengineering.git
 [submodule "fusepool-firstswim"]
 	path = fusepool-firstswim
 	url = https://github.com/fusepool/fusepool-firstswim.git
@@ -40,3 +40,18 @@
 [submodule "kmx-rdf-proxy"]
 	path = kmx-rdf-proxy
 	url = https://github.com/fusepool/kmx-rdf-proxy
+[submodule "silklinking"]
+	path = silklinking
+	url = https://github.com/fusepool/silklinking
+[submodule "publications"]
+	path = publications
+	url = https://github.com/fusepool/publications.git
+[submodule "ecsutils"]
+	path = ecsutils
+	url = https://github.com/fusepool/ecsutils.git
+[submodule "silklinkingengine"]
+	path = silklinkingengine
+	url = https://github.com/fusepool/silklinkingengine.git
+[submodule "tables-ld"]
+	path = tables-ld
+	url = https://github.com/fusepool/tables-ld.git
