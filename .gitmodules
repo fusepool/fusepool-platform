@@ -55,3 +55,6 @@
 [submodule "tables-ld"]
 	path = tables-ld
 	url = https://github.com/fusepool/tables-ld.git
+[submodule "datalifecycle"]
+	path = datalifecycle
+	url = https://github.com/fusepool/datalifecycle.git
