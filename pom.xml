@@ -70,6 +70,6 @@
         <module>ecsutils</module>
         <module>silklinkingengine</module>
         <module>tables-ld</module>
+        <module>datalifecycle</module>
     </modules>
-
 </project>
