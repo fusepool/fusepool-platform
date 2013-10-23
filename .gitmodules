@@ -36,13 +36,13 @@
 	url = https://github.com/fusepool/fusepool-ner.git
 [submodule "kmx-client"]
 	path = kmx-client
-	url = https://github.com/fusepool/kmx-client
+	url = https://github.com/fusepool/kmx-client.git
 [submodule "kmx-rdf-proxy"]
 	path = kmx-rdf-proxy
-	url = https://github.com/fusepool/kmx-rdf-proxy
+	url = https://github.com/fusepool/kmx-rdf-proxy.git
 [submodule "silklinking"]
 	path = silklinking
-	url = https://github.com/fusepool/silklinking
+	url = https://github.com/fusepool/silklinking.git
 [submodule "publications"]
 	path = publications
 	url = https://github.com/fusepool/publications.git
