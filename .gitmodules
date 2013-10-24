@@ -1,6 +1,7 @@
 [submodule "stanbol"]
 	path = stanbol
 	url = git://git.apache.org/stanbol.git
+	branch = trunk
 [submodule "launcher"]
 	path = launcher
 	url = https://github.com/fusepool/launcher.git
