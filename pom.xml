@@ -67,6 +67,7 @@
         <module>kmx-rdf-proxy</module>
         <module>silklinking</module>
         <module>publications</module>
+        <module>patents-reengineering</module>
         <module>ecsutils</module>
         <module>silklinkingengine</module>
         <module>tables-ld</module>
