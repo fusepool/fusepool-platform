@@ -1,7 +1,7 @@
 fusepool-platform
 =================
 
-The fusepool platform containing all fusepool deveoped components as submodules. As soon as this repository
+The fusepool platform contains all fusepool developed components as submodules. As soon as this repository
 gets a commit the platform is build through Jenkins.
 
 To get the source do the following:
