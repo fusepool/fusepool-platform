@@ -44,7 +44,18 @@ A few notes on adding new modules to the platform:
 - The submodule should be added by their https (not git-uri so that people without edit right can still check out the platform)
   e.g. git submodule add https://github.com/fusepool/fusepool-something.git
 - Add the submodule to the reactor, i.e. to the pom.xml in fusepool-platform
-- Add the module's groupId and artifactId to the bundlelist: bundlelist/src/main/bundles/list.xml
+- Add the module's as a dependency to the bundlelist submodule, as for any submodule change make sure you checkout the master branch, commit and push it and the also commit and push the submodule in the containing project.  
+ 
+On the shell this looks like:
+
+    cd bundlelist
+    edit pom.xml
+    git commit -m "added foobar" pom.xml
+    git push
+    cd ..
+    git commit -m "updated bundlelist module" bundlelist
+    git push
+    
 
 Windows specifics
 =================
