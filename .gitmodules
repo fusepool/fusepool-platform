@@ -65,3 +65,6 @@
 [submodule "renderlets"]
 	path = renderlets
 	url = https://github.com/fusepool/fusepool-renderlets.git
+[submodule "fusepool-dlc-patents"]
+	path = fusepool-dlc-patents
+	url = https://github.com/fusepool/fusepool-dlc-patents.git
