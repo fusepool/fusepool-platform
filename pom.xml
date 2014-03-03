@@ -73,5 +73,6 @@
         <module>silklinkingengine</module>
         <module>tables-ld</module>
         <module>datalifecycle</module>
+        <module>fusepool-dlc-patents</module>
     </modules>
 </project>
