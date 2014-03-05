@@ -68,3 +68,9 @@
 [submodule "fusepool-dlc-patents"]
 	path = fusepool-dlc-patents
 	url = https://github.com/fusepool/fusepool-dlc-patents.git
+[submodule "fusepool-selfregistartion"]
+	path = fusepool-selfregistartion
+	url = https://github.com/fusepool/fusepool-selfregistartion.git
+[submodule "selfregistration"]
+	path = selfregistration
+	url = https://github.com/fusepool/fusepool-selfregistration.git
