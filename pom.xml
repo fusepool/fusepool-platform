@@ -74,5 +74,6 @@
         <module>tables-ld</module>
         <module>datalifecycle</module>
         <module>fusepool-dlc-patents</module>
+        <module>selfregistration</module>
     </modules>
 </project>
