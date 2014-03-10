@@ -54,7 +54,7 @@
     <!-- These modules form the Fusepool Platform -->
     <modules>
         <module>parent</module>
-        <!-- <module>stanbol</module> -->
+        <module>stanbol</module>
         <module>webconsole-branding</module>
         <module>bundlelist</module>
         <module>ecs</module>
