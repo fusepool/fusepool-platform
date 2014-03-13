@@ -61,6 +61,7 @@
         <module>annostore</module>
         <module>launcher</module>
         <module>fusepool-firstswim</module>
+        <module>fusepool-prediction-reactor</module>
         <module>fusepool-ner</module>
         <module>fusepool-sma</module>
         <module>kmx-client</module>
