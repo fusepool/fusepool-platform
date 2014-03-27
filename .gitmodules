@@ -74,3 +74,6 @@
 [submodule "selfregistration"]
 	path = selfregistration
 	url = https://github.com/fusepool/fusepool-selfregistration.git
+[submodule "fusepool-dlc-pubmed"]
+	path = fusepool-dlc-pubmed
+	url = https://github.com/fusepool/fusepool-dlc-pubmed.git
