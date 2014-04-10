@@ -6,7 +6,7 @@ gets a commit the platform is build through Jenkins.
 
 To get the source do the following:
 
-    git clone git@github.com:fusepool/fusepool-platform.git
+    git clone https://github.com/fusepool/fusepool-platform.git
     cd fusepool-platform
     git submodule init
     git submodule update
