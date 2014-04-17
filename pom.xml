@@ -76,7 +76,5 @@
         <module>datalifecycle</module>
         <module>fusepool-dlc-patents</module>
         <module>selfregistration</module>
-        <module>fusepool-dlc-pubmed</module>
-        <module>fusepool-dlc-projects</module>
     </modules>
 </project>
