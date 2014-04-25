@@ -1,6 +1,6 @@
 [submodule "stanbol"]
 	path = stanbol
-	url = git://git.apache.org/stanbol.git
+	url = https://github.com/apache/stanbol.git
 	branch = trunk
 [submodule "launcher"]
 	path = launcher
