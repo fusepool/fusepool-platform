@@ -39,11 +39,13 @@ To start it in debug mode so that you can connect a debuger on port 8888
 Updating
 ========
 
-Update fusepool-platform:
+Update fusepool-platform, the following updates the platform and all module to the version referenced in the platform:
 
     git pull
+    git submodule init
+    git submodule update
     
-Update all submodules:
+Update all submodules to their latest version (this may a newer version than the version currently supported by the platform):
 
     git submodule update --remote
 
