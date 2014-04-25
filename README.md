@@ -36,6 +36,16 @@ To start it in debug mode so that you can connect a debuger on port 8888
 
     java -Xmx1024M -XX:MaxPermSize=400M -Xss512k -Xdebug -Xnoagent -Xrunjdwp:transport=dt_socket,address=8888,server=y,suspend=n -jar launcher-0.1-SNAPSHOT.jar 
 
+Updating
+========
+
+Update fusepool-platform:
+
+    git pull
+    
+Update all submodules:
+
+    git submodule update --remote
 
 Adding new Submodules
 =====================
