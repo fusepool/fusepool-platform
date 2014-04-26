@@ -75,6 +75,8 @@
         <module>tables-ld</module>
         <module>datalifecycle</module>
         <module>fusepool-dlc-patents</module>
+        <module>fusepool-dlc-pubmed</module>
+        <module>fusepool-dlc-projects</module>
         <module>selfregistration</module>
     </modules>
 </project>
