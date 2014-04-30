@@ -78,5 +78,6 @@
         <module>fusepool-dlc-pubmed</module>
         <module>fusepool-dlc-projects</module>
         <module>selfregistration</module>
+        <module>dice-linker</module>
     </modules>
 </project>

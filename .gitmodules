@@ -80,3 +80,6 @@
 [submodule "fusepool-dlc-projects"]
 	path = fusepool-dlc-projects
 	url = https://github.com/fusepool/fusepool-dlc-projects.git
+[submodule "dice-linker"]
+	path = dice-linker
+	url = https://github.com/fusepool/fusepool-dice-linker.git
