@@ -43,11 +43,13 @@ Update fusepool-platform, the following updates the platform and all module to t
 
     git pull
     git submodule init
-    git submodule update
+    git submodule update --init --recursive
     
 Update all submodules to their latest version (this may a newer version than the version currently supported by the platform):
 
     git submodule update --remote
+
+(Maybe --init and --recursive should be used here too.)
 
 Adding new Submodules
 =====================
