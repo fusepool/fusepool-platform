@@ -6,10 +6,9 @@ gets a commit the platform is build through Jenkins.
 
 To get the source do the following:
 
-    git clone git@github.com:fusepool/fusepool-platform.git
+    git clone https://github.com/fusepool/fusepool-platform.git
     cd fusepool-platform
-    git submodule init
-    git submodule update
+    git submodule update --init --recursive
 
 To compile the fusepool platform and its modules you need to have [Maven](http://maven.apache.org/)
 version 3 or newer installed.
@@ -36,6 +35,19 @@ To start it in debug mode so that you can connect a debuger on port 8888
 
     java -Xmx1024M -XX:MaxPermSize=400M -Xss512k -Xdebug -Xnoagent -Xrunjdwp:transport=dt_socket,address=8888,server=y,suspend=n -jar launcher-0.1-SNAPSHOT.jar 
 
+Updating
+========
+
+Update fusepool-platform, the following updates the platform and all module to the version referenced in the platform:
+
+    git pull
+    git submodule update --init --recursive
+    
+Update all submodules to their latest version (this may a newer version than the version currently supported by the platform):
+
+    git submodule update --init --recursive --remote
+
+(Maybe --init and --recursive should be used here too.)
 
 Adding new Submodules
 =====================

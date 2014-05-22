@@ -54,7 +54,8 @@
     <!-- These modules form the Fusepool Platform -->
     <modules>
         <module>parent</module>
-        <!-- excluded as the build fails by a missing externqal dependency (antrun download) <module>stanbol</module> -->
+        <!-- building only the part that is not deployeed to maven repos  -->
+        <module>stanbol/data</module>
         <module>webconsole-branding</module>
         <module>bundlelist</module>
         <module>ecs</module>
@@ -75,6 +76,9 @@
         <module>tables-ld</module>
         <module>datalifecycle</module>
         <module>fusepool-dlc-patents</module>
+        <module>fusepool-dlc-pubmed</module>
+        <module>fusepool-dlc-projects</module>
         <module>selfregistration</module>
+        <module>dice-linker</module>
     </modules>
 </project>

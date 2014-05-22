@@ -1,6 +1,6 @@
 [submodule "stanbol"]
 	path = stanbol
-	url = git://git.apache.org/stanbol.git
+	url = https://github.com/apache/stanbol.git
 	branch = trunk
 [submodule "launcher"]
 	path = launcher
@@ -74,3 +74,12 @@
 [submodule "selfregistration"]
 	path = selfregistration
 	url = https://github.com/fusepool/fusepool-selfregistration.git
+[submodule "fusepool-dlc-pubmed"]
+	path = fusepool-dlc-pubmed
+	url = https://github.com/fusepool/fusepool-dlc-pubmed.git
+[submodule "fusepool-dlc-projects"]
+	path = fusepool-dlc-projects
+	url = https://github.com/fusepool/fusepool-dlc-projects.git
+[submodule "dice-linker"]
+	path = dice-linker
+	url = https://github.com/fusepool/fusepool-dice-linker.git
