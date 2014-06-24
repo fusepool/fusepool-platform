@@ -47,8 +47,6 @@ Update all submodules to their latest version (this may a newer version than the
 
     git submodule update --init --recursive --remote
 
-(Maybe --init and --recursive should be used here too.)
-
 Adding new Submodules
 =====================
 A few notes on adding new modules to the platform:
