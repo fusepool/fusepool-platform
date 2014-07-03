@@ -61,7 +61,7 @@
 	url = https://github.com/fusepool/datalifecycle.git
 [submodule "fusepool-prediction-reactor"]
 	path = fusepool-prediction-reactor
-	url = https://github.com/Adeurien/fusepool-prediction-reactor.git
+	url = https://github.com/fusepool/fusepool-prediction-reactor.git
 [submodule "renderlets"]
 	path = renderlets
 	url = https://github.com/fusepool/fusepool-renderlets.git
