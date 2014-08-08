@@ -55,7 +55,7 @@
     <modules>
         <module>parent</module>
         <!-- building only the part that is not deployeed to maven repos  -->
-        <module>stanbol/data</module>
+        <!-- no longer needed <module>stanbol/data</module> -->
         <module>webconsole-branding</module>
         <module>bundlelist</module>
         <module>ecs</module>
