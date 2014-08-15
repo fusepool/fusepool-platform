@@ -83,3 +83,6 @@
 [submodule "dice-linker"]
 	path = dice-linker
 	url = https://github.com/fusepool/fusepool-dice-linker.git
+[submodule "integrations-tests"]
+	path = integrations-tests
+	url = git@github.com:fusepool/fusepool-integration-tests.git

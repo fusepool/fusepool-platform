@@ -80,5 +80,6 @@
         <module>fusepool-dlc-projects</module>
         <module>selfregistration</module>
         <module>dice-linker</module>
+        <module>integrations-tests</module>
     </modules>
 </project>
