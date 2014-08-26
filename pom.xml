@@ -71,7 +71,6 @@
         <module>publications</module>
         <module>patents-reengineering</module>
         <module>renderlets</module>
-        <module>ecsutils</module>
         <module>silklinkingengine</module>
         <module>tables-ld</module>
         <module>datalifecycle</module>
