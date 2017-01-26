@@ -60,13 +60,15 @@
         <module>bundlelist</module>
         <module>ecs</module>
         <module>annostore</module>
-        <module>launcher</module>
-        <module>fusepool-prediction-reactor</module>
+        <module>launcher</module>   
         <module>fusepool-firstswim</module>
-        <module>fusepool-ner</module>
+        
         <module>fusepool-sma</module>
+        <!-- excluding as they depend on old Stanbol/clerezza version
+        <module>fusepool-prediction-reactor</module>
         <module>kmx-client</module>
-        <module>kmx-rdf-proxy</module>
+        <module>kmx-rdf-proxy</module> 
+        <module>fusepool-ner</module>-->
         <module>silklinking</module>
         <module>publications</module>
         <module>patents-reengineering</module>
